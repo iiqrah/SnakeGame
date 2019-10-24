@@ -16,9 +16,7 @@ So this is me documenting my snake game.
 
 I will be using HTML, CSS and JavaScript to create the game. 
 This is the repository that will contain all my code and documentation. 
-I will be hosting the game with the help of gitHub Pages and hopefully have a link of it on my website too. 
-
-I am also taking the help of [this freeCodeCamp article](https://www.freecodecamp.org/news/think-like-a-programmer-how-to-build-snake-using-only-javascript-html-and-css-7b1479c3339e/). But the code snippets are missing and also all the code is in just one file, I want my HTML, CSS and JavaScript to be all separate and well organised, so that is a bit of extra steps I will be including. 
+I will be hosting the game with the help of gitHub Pages and hopefully have a link of it on my website too.  
 
 
 ## So let's get started.
