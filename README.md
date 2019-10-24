@@ -14,9 +14,9 @@ So this is me documenting my snake game.
 
 ## How?
 
-I will be using HTML, CSS and JavaScript to create the game. 
-This is the repository that will contain all my code and documentation. 
-I will be hosting the game with the help of gitHub Pages and hopefully have a link of it on my website too.  
+- I will be using HTML, CSS and JavaScript to create the game. 
+- This is the repository that will contain all my code and documentation. 
+- I will be hosting the game with the help of GitHub Pages and hopefully have a link of it on my website too.  
 
 
 ## So let's get started.
@@ -66,7 +66,7 @@ First things first.
   
 ### Add a bit of CSS 
 
-- Lets add some simple style to <h1> and <canva> to check if we have linked our css file correctly
+- Lets add some simple style to h1 and canvas element to check if we have linked our css file correctly
 - Add the following code in styles.css:
 
 ```css
